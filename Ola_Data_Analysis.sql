@@ -118,7 +118,7 @@ where incomplete_rides = 'yes';
 select*from incomplete_rides;
 
 
-
+-- All the Analysis can be checked by these queries
 select*from Successful_Bookings;
 select*from average_ride;
 select*from count_of_ride_cancelled_customer;
